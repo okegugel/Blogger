@@ -1,0 +1,14 @@
+﻿#OG_BottomBanner {
+width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999;-webkit-transform:translateZ(0);
+}
+.button-BottomAds a{
+border:0;
+cursor:pointer;
+}
+.button-BottomAds a > i{
+vertical-align:middle
+}
+.content-BottomAds {
+text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;background:#fff;
+}
+.content-BottomAds ins.adsbygoogle {background: transparent !important;max-width:100%;height:auto;vertical-align:middle; }
